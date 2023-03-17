@@ -1,0 +1,2 @@
+#h
+gcc $CFILE -E -o c
