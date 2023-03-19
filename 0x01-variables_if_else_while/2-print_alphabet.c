@@ -14,9 +14,11 @@ int main(void)
 {
 char letter;
 
-for (letter = 'a'; letter <= 'z'; letter++)
+for (letter = 'A'; letter <= 'Z'; letter++)
+{
+char lower_x = tolower(x);
 putchar(letter);
-
+}
 putchar('\n');
 
 return (0);
