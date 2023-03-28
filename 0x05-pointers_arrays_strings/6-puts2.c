@@ -1,4 +1,4 @@
-#include "main.hi"
+#include "main.h"
 /**
  * puts2 - prints one character out of two, starting with the first
 *
